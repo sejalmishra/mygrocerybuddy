@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mygrocerybuddy/static/css/main.b63a5383.css",
+    "main.js": "/mygrocerybuddy/static/js/main.97a0e2d2.js",
+    "index.html": "/mygrocerybuddy/index.html",
+    "main.b63a5383.css.map": "/mygrocerybuddy/static/css/main.b63a5383.css.map",
+    "main.97a0e2d2.js.map": "/mygrocerybuddy/static/js/main.97a0e2d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b63a5383.css",
+    "static/js/main.97a0e2d2.js"
+  ]
+}
